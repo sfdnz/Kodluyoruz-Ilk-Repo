@@ -22,5 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![](https://imgyukle.com/f/2022/08/25/nxIwBc.png)
-<a href="https://www.patika.dev/tr"> Patika </a>
+<a href="https://app.patika.dev/sfdnz"> Patika </a>
 
